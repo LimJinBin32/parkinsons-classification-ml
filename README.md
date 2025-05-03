@@ -76,7 +76,7 @@ The dataset is **not included** due to academic licensing restrictions.
 🙋‍♂️ Author
 
 Lim Jin Bin
-Year 2 — AI & Data Engineering
+Y2 AI & Data Engineering
 Nanyang Polytechnic
 Module: Machine Learning
 
