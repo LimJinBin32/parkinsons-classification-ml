@@ -67,12 +67,6 @@ Both models were evaluated using:
 
 ---
 
-⚠️ Notes
-
-The dataset is **not included** due to academic licensing restrictions.
-
----
-
 🙋‍♂️ Author
 
 Lim Jin Bin
